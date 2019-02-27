@@ -1,8 +1,8 @@
 ---
 name: Feature Request
-about: Propose a new feature or change.
-title: 'Feature Request / '
-labels: 'feature request'
+about: Propose feature or change requests
+title: 'Request / '
+labels: request
 assignees: ''
 
 ---
