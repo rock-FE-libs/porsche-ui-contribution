@@ -2,7 +2,7 @@
 name: Feature Request
 about: Propose feature or change requests
 title: 'Request / '
-labels: request
+labels: request, open
 assignees: ''
 
 ---
