@@ -1,4 +1,4 @@
-# Welcome to the public contribution section of the Porsche UI Kit 
+# Welcome to the public Porsche UI Kit contribution section
 The Porsche UI team is working hard on creating and maintaining the best qualitative and brand-aligned collection of essential design elements for aesthetic and intuitive products development. Following an open community approach everyone is encouraged to contribute contents to the Porsche UI Kit source, give feedback or request changes from the Porsche UI Team.
 
 ## Contribute or request changes
