@@ -2,7 +2,7 @@
 name: Contribution Proposal
 about: Hand in prebuid fixes or changes
 title: 'Contribution / '
-labels: contribution
+labels: contribution, open
 assignees: ''
 
 ---
