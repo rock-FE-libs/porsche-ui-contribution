@@ -1,5 +1,5 @@
 # Welcome to the public Porsche UI Kit contribution section
-The Porsche UI team is working hard on creating and maintaining the best qualitative and brand-aligned collection of essential design elements for aesthetic and intuitive products development. Following an open community approach everyone is encouraged to contribute contents to the Porsche UI Kit source, give feedback or request changes from the Porsche UI Team.
+The Porsche UI team is working hard on creating and maintaining the best qualitative and brand-aligned collection of essential design elements for aesthetic and intuitive products development. Following an open community approach everyone is encouraged to contribute contents to the Porsche UI Kit source, give feedback or request changes to be implemented by the Porsche UI Team.
 
 ## Contribute or request changes
 To suggest or submit changes first **[create a new issue here](https://github.com/porscheui/porsche-ui-contribution/issues/new/choose)** so that the Porsche UI team can review and get back to you shortly. For directly contributing Pull Requests in the private Repository, the required permissions can be assigned to the relevant user case-dependent.
